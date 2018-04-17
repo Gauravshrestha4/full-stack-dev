@@ -1,0 +1,16 @@
+td{
+	width: 100px;
+	height: 100px;
+}
+.center{
+	border: 1px solid black;
+}
+.middle{
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.side{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
